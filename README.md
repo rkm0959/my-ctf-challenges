@@ -6,3 +6,4 @@
 - CODEGATE2022 Quals: Dark Arts
 - CODEGATE2022 Finals: Cryptanalysis Summer, Look It Up
 - PBCTF 2023: Remake
+- CODEGATE2023 Finals: The Leakers
